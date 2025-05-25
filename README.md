@@ -4,7 +4,7 @@
 
 ![Teddybear182's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddybear182&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddybear182&hide=css,html&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddybear182&theme=synthwave&hide=html,css)
 
 
 <!---
