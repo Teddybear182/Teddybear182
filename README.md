@@ -2,9 +2,8 @@
 I'm interested in webdev, gamedev and other programming-related topics. Currently learning different programming languages like JavaScript, C# and Python.
 
 # Stats
-![Teddybear182's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddybear182&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddybear182&theme=synthwave&hide=html,css)
+[![Teddybear182's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teddybear182)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teddybear182&theme=synthwave&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 # Badges
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
