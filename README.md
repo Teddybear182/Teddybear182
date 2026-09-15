@@ -1,10 +1,10 @@
 # Hi👋, I’m Fyodor Belousov
-I'm interested in webdev, gamedev and other programming-related topics. Currently learning different programming languages like JavaScript, C# and Python.
+I'm interested in webdev, gamedev and other programming-related topics. Currently learning different programming languages like C++, C#, TypeScript and Python.
 
 # Stats
-[![Teddybear182's GitHub stats](https://personal-github-stats-three.vercel.app/api?username=Teddybear182&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Teddybear182's GitHub stats](https://github-stats-extended.vercel.app/api?username=Teddybear182&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://personal-github-stats-three.vercel.app/api/top-langs/?username=Teddybear182&theme=synthwave&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Teddybear182&theme=gruvbox)](https://github.com/stats-organization/github-stats-extended)
 
 # Badges
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -13,9 +13,11 @@ I'm interested in webdev, gamedev and other programming-related topics. Currentl
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
